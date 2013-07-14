@@ -1,7 +1,9 @@
 # ink2-rails
-Forked from https://github.com/npestana/ink-rails
+Ink version 2.x.x for Rails asset pipeline (Rails 4 tested).
 
-Ink version 2.x.x for Rails Asset Pipeline.
+Thanks to https://github.com/npestana/ink-rails for Ink v1 support
+
+More information about Ink Framework at https://github.com/sapo/Ink and http://ink.sapo.pt
 
 ## Installation
 
@@ -34,9 +36,6 @@ Add these lines to your application.js before "//= require_tree .":
     //= require ink.ui.min
     //= require autoload
     //= require html5shiv
-
-
-More information about Ink Framework at https://github.com/sapo/Ink.
 
 ## Contributing
 
