@@ -1,4 +1,4 @@
-require "ink-rails/version"
+require "ink2-rails/version"
 require "rails"
 
 module Ink
