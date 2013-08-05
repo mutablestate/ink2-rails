@@ -1,6 +1,8 @@
 # ink2-rails
 Ink version 2.x.x for Rails asset pipeline (Rails 4 tested).
 
+Current version 2.2.0
+
 Thanks to https://github.com/npestana/ink-rails for Ink v1 support
 
 More information about Ink Framework at https://github.com/sapo/Ink and http://ink.sapo.pt
