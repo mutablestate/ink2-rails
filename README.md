@@ -35,7 +35,7 @@ Add this lines to your application.css before "*= require_tree .":
 Add these lines to your application.js before "//= require_tree .":
 
     //= require ink.min
-    //= require ink.ui.min
+    //= require ink-ui.min
     //= require autoload
     //= require html5shiv
 
